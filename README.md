@@ -1,2 +1,2 @@
 # confluence-custom-css
-Styles that changes the look of Confluence Cloud
+Several styles to change the appearance of the Confluence cloud.
